@@ -1,0 +1,6 @@
+projectKey=com.mt:MavenEnterpriseApp-web
+serverUrl=http://ec2-13-127-49-65.ap-south-1.compute.amazonaws.com:9000
+serverVersion=7.8.0.26217
+dashboardUrl=http://ec2-13-127-49-65.ap-south-1.compute.amazonaws.com:9000/dashboard?id=com.mt%3AMavenEnterpriseApp-web
+ceTaskId=AXukxWwhlZ-7kqXFVGnV
+ceTaskUrl=http://ec2-13-127-49-65.ap-south-1.compute.amazonaws.com:9000/api/ce/task?id=AXukxWwhlZ-7kqXFVGnV
